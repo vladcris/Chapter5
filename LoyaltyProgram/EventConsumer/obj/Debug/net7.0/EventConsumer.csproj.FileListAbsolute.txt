@@ -1,0 +1,15 @@
+C:\Users\const\source\repos\NET_Microservices\Chapter5\LoyaltyProgram\EventConsumer\bin\Debug\net7.0\EventConsumer.exe
+C:\Users\const\source\repos\NET_Microservices\Chapter5\LoyaltyProgram\EventConsumer\bin\Debug\net7.0\EventConsumer.deps.json
+C:\Users\const\source\repos\NET_Microservices\Chapter5\LoyaltyProgram\EventConsumer\bin\Debug\net7.0\EventConsumer.runtimeconfig.json
+C:\Users\const\source\repos\NET_Microservices\Chapter5\LoyaltyProgram\EventConsumer\bin\Debug\net7.0\EventConsumer.dll
+C:\Users\const\source\repos\NET_Microservices\Chapter5\LoyaltyProgram\EventConsumer\bin\Debug\net7.0\EventConsumer.pdb
+C:\Users\const\source\repos\NET_Microservices\Chapter5\LoyaltyProgram\EventConsumer\obj\Debug\net7.0\EventConsumer.csproj.AssemblyReference.cache
+C:\Users\const\source\repos\NET_Microservices\Chapter5\LoyaltyProgram\EventConsumer\obj\Debug\net7.0\EventConsumer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\const\source\repos\NET_Microservices\Chapter5\LoyaltyProgram\EventConsumer\obj\Debug\net7.0\EventConsumer.AssemblyInfoInputs.cache
+C:\Users\const\source\repos\NET_Microservices\Chapter5\LoyaltyProgram\EventConsumer\obj\Debug\net7.0\EventConsumer.AssemblyInfo.cs
+C:\Users\const\source\repos\NET_Microservices\Chapter5\LoyaltyProgram\EventConsumer\obj\Debug\net7.0\EventConsumer.csproj.CoreCompileInputs.cache
+C:\Users\const\source\repos\NET_Microservices\Chapter5\LoyaltyProgram\EventConsumer\obj\Debug\net7.0\EventConsumer.dll
+C:\Users\const\source\repos\NET_Microservices\Chapter5\LoyaltyProgram\EventConsumer\obj\Debug\net7.0\refint\EventConsumer.dll
+C:\Users\const\source\repos\NET_Microservices\Chapter5\LoyaltyProgram\EventConsumer\obj\Debug\net7.0\EventConsumer.pdb
+C:\Users\const\source\repos\NET_Microservices\Chapter5\LoyaltyProgram\EventConsumer\obj\Debug\net7.0\EventConsumer.genruntimeconfig.cache
+C:\Users\const\source\repos\NET_Microservices\Chapter5\LoyaltyProgram\EventConsumer\obj\Debug\net7.0\ref\EventConsumer.dll

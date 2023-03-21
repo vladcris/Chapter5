@@ -1,0 +1,15 @@
+C:\Users\const\source\repos\NET_Microservices\Chapter5\ApiGatewayMock\bin\Debug\net7.0\ApiGatewayMock.exe
+C:\Users\const\source\repos\NET_Microservices\Chapter5\ApiGatewayMock\bin\Debug\net7.0\ApiGatewayMock.deps.json
+C:\Users\const\source\repos\NET_Microservices\Chapter5\ApiGatewayMock\bin\Debug\net7.0\ApiGatewayMock.runtimeconfig.json
+C:\Users\const\source\repos\NET_Microservices\Chapter5\ApiGatewayMock\bin\Debug\net7.0\ApiGatewayMock.dll
+C:\Users\const\source\repos\NET_Microservices\Chapter5\ApiGatewayMock\bin\Debug\net7.0\ApiGatewayMock.pdb
+C:\Users\const\source\repos\NET_Microservices\Chapter5\ApiGatewayMock\obj\Debug\net7.0\ApiGatewayMock.csproj.AssemblyReference.cache
+C:\Users\const\source\repos\NET_Microservices\Chapter5\ApiGatewayMock\obj\Debug\net7.0\ApiGatewayMock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\const\source\repos\NET_Microservices\Chapter5\ApiGatewayMock\obj\Debug\net7.0\ApiGatewayMock.AssemblyInfoInputs.cache
+C:\Users\const\source\repos\NET_Microservices\Chapter5\ApiGatewayMock\obj\Debug\net7.0\ApiGatewayMock.AssemblyInfo.cs
+C:\Users\const\source\repos\NET_Microservices\Chapter5\ApiGatewayMock\obj\Debug\net7.0\ApiGatewayMock.csproj.CoreCompileInputs.cache
+C:\Users\const\source\repos\NET_Microservices\Chapter5\ApiGatewayMock\obj\Debug\net7.0\ApiGatewayMock.dll
+C:\Users\const\source\repos\NET_Microservices\Chapter5\ApiGatewayMock\obj\Debug\net7.0\refint\ApiGatewayMock.dll
+C:\Users\const\source\repos\NET_Microservices\Chapter5\ApiGatewayMock\obj\Debug\net7.0\ApiGatewayMock.pdb
+C:\Users\const\source\repos\NET_Microservices\Chapter5\ApiGatewayMock\obj\Debug\net7.0\ApiGatewayMock.genruntimeconfig.cache
+C:\Users\const\source\repos\NET_Microservices\Chapter5\ApiGatewayMock\obj\Debug\net7.0\ref\ApiGatewayMock.dll
